@@ -1,0 +1,34 @@
+#include "winver.h"
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION     @S2_VER_MAJOR@,@S2_VER_MINOR@,@S2_VER_PATCH@,@S2_VER_BUILD@
+PRODUCTVERSION  @S2_VER_MAJOR@,@S2_VER_MINOR@,@S2_VER_PATCH@,@S2_VER_BUILD@
+FILEFLAGSMASK   VS_FFI_FILEFLAGSMASK
+#ifdef _DEBUG
+FILEFLAGS       VS_FF_DEBUG
+#else
+FILEFLAGS       0
+#endif
+FILEOS          VOS__WINDOWS32
+FILETYPE        VFT_APP
+FILESUBTYPE     VFT2_UNKNOWN
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "CompanyName",      "@S2_COMPANY_NAME@"
+            VALUE "FileDescription",  "@S2_FILE_DESCRIPTION@"
+            VALUE "FileVersion",      "@S2_FILE_VERSION@"
+            VALUE "InternalName",     "Subnautica2Panel"
+            VALUE "LegalCopyright",   "@S2_LEGAL_COPYRIGHT@"
+            VALUE "OriginalFilename", "Subnautica2Panel.exe"
+            VALUE "ProductName",      "@S2_PRODUCT_NAME@"
+            VALUE "ProductVersion",   "@S2_PRODUCT_VERSION@"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END

@@ -1,0 +1,20 @@
+# Product / file version for VERSIONINFO (neutral strings — fewer AV keyword hits).
+set(S2_PRODUCT_NAME "Subnautica 2")
+set(S2_COMPANY_NAME "SabNavr")
+set(S2_FILE_DESCRIPTION "Subnautica 2 settings application")
+set(S2_LEGAL_COPYRIGHT "Copyright (C) 2026 SabNavr. All rights reserved.")
+set(S2_PRODUCT_VERSION "1.2.8.0")
+set(S2_FILE_VERSION "1.2.8.0")
+
+string(REPLACE "." ";" _ver_parts "${S2_FILE_VERSION}")
+list(GET _ver_parts 0 S2_VER_MAJOR)
+list(GET _ver_parts 1 S2_VER_MINOR)
+list(GET _ver_parts 2 S2_VER_PATCH)
+list(LENGTH _ver_parts _ver_len)
+if(_ver_len GREATER 3)
+    list(GET _ver_parts 3 S2_VER_BUILD)
+else()
+    set(S2_VER_BUILD 0)
+endif()
+
+set(S2_VERSION_COMMA "${S2_VER_MAJOR},${S2_VER_MINOR},${S2_VER_PATCH},${S2_VER_BUILD}")
